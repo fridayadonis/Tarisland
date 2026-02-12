@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="assets/tarisland-hack-logo.png" alt="Tarisland Hack Logo" width="220"/>
   <br/><br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&duration=4500&pause=1200&color=FF4500&center=true&vCenter=true&width=750&lines=TARISLAND+HACK;OP+INFINITE+HP+2026;ESP+NO+COOLDOWN;SPEED+HACK+DAMAGE+BOOST;LOOT+ESP;AUTO+FARM;UNDTECTED+FAST" alt="Typing SVG" />
 </p>
